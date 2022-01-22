@@ -13,3 +13,11 @@ Link to view this project: https://fujinihongo.000webhostapp.com
 **私は無料ホスティングを使用しています。 そのため、開くことができない場合は、ブラウザのセキュリティを無効にしてください。
 
 このプロジェクトを表示するリンク：https://fujinihongo.000webhostapp.com
+
+Tiếng Việt
+
+Đây là trang web về khóa học tiếng Nhật có tên là FUJINIHONGO. Vào học kì 1 năm ba, tôi và các bạn đã làm web này. Chúng tôi đã sử dụng html, css, javascript, PHP. Giao diện và các tính năng đăng ký và đăng nhập đã hoàn thành. Nhưng chúng tôi chưa thông thạo PHP nên tính năng đăng ký khóa học vẫn chưa hoàn thiện.
+
+** Tôi đang sử dụng hosting miễn phí. Vì vậy, nếu bạn không thể mở nó, vui lòng tắt bảo mật trình duyệt của bạn.
+
+Link để xem dự án này: https://fujinihongo.000webhostapp.com
